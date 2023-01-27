@@ -1,0 +1,15 @@
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_7/Task_52/bin/Debug/net7.0/Task_52
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_7/Task_52/bin/Debug/net7.0/Task_52.deps.json
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_7/Task_52/bin/Debug/net7.0/Task_52.runtimeconfig.json
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_7/Task_52/bin/Debug/net7.0/Task_52.dll
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_7/Task_52/bin/Debug/net7.0/Task_52.pdb
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_7/Task_52/obj/Debug/net7.0/Task_52.csproj.AssemblyReference.cache
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_7/Task_52/obj/Debug/net7.0/Task_52.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_7/Task_52/obj/Debug/net7.0/Task_52.AssemblyInfoInputs.cache
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_7/Task_52/obj/Debug/net7.0/Task_52.AssemblyInfo.cs
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_7/Task_52/obj/Debug/net7.0/Task_52.csproj.CoreCompileInputs.cache
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_7/Task_52/obj/Debug/net7.0/Task_52.dll
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_7/Task_52/obj/Debug/net7.0/refint/Task_52.dll
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_7/Task_52/obj/Debug/net7.0/Task_52.pdb
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_7/Task_52/obj/Debug/net7.0/Task_52.genruntimeconfig.cache
+/Users/aleksejveresagin/Desktop/Работа/lessons IT/Seminare_7/Task_52/obj/Debug/net7.0/ref/Task_52.dll
